@@ -1,6 +1,6 @@
 reventh rao
-<<<<<<< HEAD
+
 heyah
-=======
+
 booyah
->>>>>>> 9219c87f73d1de04a2a197caee7539aa81ba7f22
+
